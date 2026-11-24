@@ -2,6 +2,7 @@
 
 [![Validador Hreflang](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/br/validador-hreflang/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de reciprocidade de ligacoes alternativas, anotacoes de idioma, mapeamento regional e tags x-default.
 
@@ -49,6 +50,20 @@ Para auditorias profundas e teste visual de matrizes complexas de internacionali
 ## Consultoria em SEO Internacional e Arquitetura Global
 
 Para expansao de mercados globais e conformidade com Diretrizes de SEO Internacional e W3C, consulte a equipe da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
