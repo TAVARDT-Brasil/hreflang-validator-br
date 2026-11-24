@@ -5,7 +5,7 @@
 
 Auditoria de reciprocidade de ligacoes alternativas, anotacoes de idioma, mapeamento regional e tags x-default.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e arquitetura semantica internacional da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de engenharia de busca e arquitetura semantica internacional da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python hreflang_validator.py https://empresa.com.br -json
 Para auditorias profundas e teste visual de matrizes complexas de internacionalizacao:
 
 * **Validador de Hreflang Oficial**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em SEO Internacional e Arquitetura Global
 
-Para expansao de mercados globais e conformidade com Diretrizes de SEO Internacional e W3C, consulte a equipe da **TAVARDT Brasil**.
+Para expansao de mercados globais e conformidade com Diretrizes de SEO Internacional e W3C, consulte a equipe da **TAVARDT**.
 
 ***
 
