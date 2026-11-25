@@ -66,15 +66,6 @@ A ferramenta valida a norma ISO 639-1 para identificadores de idioma de dois car
 
 ***
 
-## Diagnostico Completo na Web
-
-Para testes visuais e validacao interativa de anotacoes de idioma:
-
-* [Validador Hreflang](https://tools.tavardt.com/br/validador-hreflang/)
-* [Portal Corporativo](https://ag.tavardt.com/br/)
-
-***
-
 ## Consultoria em SEO Internacional e Arquitetura Global
 
 Para estruturacao tecnica de portais multirregionais e conformidade com diretrizes do W3C, consulte a equipe da **TAVARDT**.
